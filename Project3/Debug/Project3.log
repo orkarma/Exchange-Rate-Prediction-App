@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+c:\users\ibby\documents\visual studio 2015\projects\rtp a1 currency\project3\source.cpp(169): error C2660: 'dataRead': function does not take 0 arguments
+c:\users\ibby\documents\visual studio 2015\projects\rtp a1 currency\project3\source.cpp(171): warning C4018: '<': signed/unsigned mismatch
